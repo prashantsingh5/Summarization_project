@@ -2,6 +2,10 @@
 
 This project is an automated multimedia summarization and translation system. It allows users to convert video and audio files into summarized PDFs, extract and summarize content from existing PDFs, and perform interactive Q&A on the summaries. The project utilizes deep learning models and NLP tools, and it offers a user-friendly interface powered by **Gradio** for easy interaction.
 
+![summary](https://github.com/user-attachments/assets/5ce82503-ef4a-45b4-8eed-26731fca62ac)
+![summary2](https://github.com/user-attachments/assets/9b265090-608e-4085-a0c8-2d0c280b6f62)
+
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
