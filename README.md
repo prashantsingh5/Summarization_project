@@ -12,8 +12,6 @@ This project is an automated multimedia summarization and translation system. It
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Future Enhancements](#future-enhancements)
-- [License](#license)
 
 ## Features
 
